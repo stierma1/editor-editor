@@ -1,0 +1,52 @@
+{
+  "name": "editor-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/editor-editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/editor-editor/issues"
+  },
+  "homepage": "https://github.com/stierma1/editor-editor#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.9.1",
+    "forward-chainer": "^1.0.5",
+    "traverse": "^0.6.6"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.10.1",
+    "babel-plugin-syntax-async-functions": "^6.8.0",
+    "babel-plugin-transform-regenerator": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-react-optimize": "^1.0.1",
+    "babel-preset-stage-0": "^6.5.0",
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.6",
+    "bootstrap-webpack": "0.0.5",
+    "chai": "^3.5.0",
+    "css-loader": "^0.23.1",
+    "express": "^4.14.0",
+    "file-loader": "^0.9.0",
+    "jquery": "^3.1.0",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
+    "mocha": "^2.5.3",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "style-loader": "^0.13.1",
+    "tcomb-form": "^0.9.8",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.1",
+    "webpack-cli": "^1.0.0"
+  }
+}
